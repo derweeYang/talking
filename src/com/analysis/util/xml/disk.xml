@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HD>
+    <disk name="C">
+        <capacity>8G</capacity>
+        <directories>200</directories>
+        <files>1580</files>
+    </disk>
+    <disk name="D">
+        <capacity>10G</capacity>
+        <directories>500</directories>
+        <files>3000</files>
+    </disk>
+    <disk2 name="E">
+        <capacity>11G</capacity>
+        <directories>50</directories>
+        <files size="200" modifyDate="2011-08-3">
+            <file>Java book</file>
+            <file>Spring.txt</file>
+            <file>strtus.doc</file>
+        </files>
+    </disk2>
+    <files size="220">500</files>
+</HD>
